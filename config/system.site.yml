@@ -1,0 +1,14 @@
+uuid: e3bf9377-a360-497b-8149-8b9c0fee3421
+name: d8mag1
+mail: jdelong@backofficethinking.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
