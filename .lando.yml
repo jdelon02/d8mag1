@@ -1,0 +1,6 @@
+name: d8mag1
+recipe: pantheon
+config:
+  framework: drupal8
+  site: d8mag1
+  id: 04f7837a-a16f-46de-9af4-182ad7341617
